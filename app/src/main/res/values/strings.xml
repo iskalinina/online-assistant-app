@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OnlineAssistant</string>
+    <string name="text_label_1">Schedule</string>
+    <string name="text_label_2">Contacts</string>
+    <string name="text_label_3">Settings</string>
+    <string name="text_label_4">Profile</string>
+    <string name="bt_login">LOG IN</string>
+    <string name="label_name">Your login</string>
+    <string name="label_password">Password</string>
+    <string name="helper_text">Minimum of 9 characters</string>
+    <string name="resetPassword_link">Forgot password?</string>
+    <string name="log_in">Log In</string>
+    <string name="login_info">You can get the password in the Information Centre</string>
+    <string name="your_profile">User Profile</string>
+</resources>
