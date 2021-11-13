@@ -11,6 +11,11 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_4.xml" value="0.13125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_contacts.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_profile.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_schedule.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
       </map>
     </option>

@@ -11,5 +11,8 @@
     <string name="resetPassword_link">Forgot password?</string>
     <string name="log_in">Log In</string>
     <string name="login_info">You can get the password in the Information Centre</string>
-    <string name="your_profile">User Profile</string>
+    <string name="profile_headline">User Profile</string>
+    <string name="schedule_headline">Your Schedule</string>
+    <string name="settings_headline">Settings</string>
+    <string name="contacts_headline">Contacts</string>
 </resources>
