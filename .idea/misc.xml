@@ -9,14 +9,21 @@
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_2.xml" value="0.1125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_3.xml" value="0.13125" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_4.xml" value="0.13125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_edit.xml" value="0.14739583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/icon_share.xml" value="0.2046875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/share_icon.xml" value="0.2046875" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/drawable/userpic_photo.xml" value="0.2046875" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/activity_profile.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/classes_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/events_card_list_item.xml" value="0.22" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_contacts.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_menu.xml" value="0.25" />
-        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_profile.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_schedule.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/layout/fragment_settings.xml" value="0.25" />
         <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/OnlineAssistant/app/src/main/res/menu/top_app_menu.xml" value="0.17447916666666666" />
       </map>
     </option>
   </component>

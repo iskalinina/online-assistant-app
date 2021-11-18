@@ -6,6 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".ProfileActivity">
 
+    <com.google.android.material.appbar.MaterialToolbar
+        style="@style/Theme.OnlineAssistantApp.TopBar"
+        android:id="@+id/top_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="@string/profile_headline"
+        app:menu="@menu/top_app_menu"
+        app:titleCentered="true"
+        app:navigationIcon ="@drawable/icon_back"
+       />
+
         <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"

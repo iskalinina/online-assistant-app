@@ -41,7 +41,7 @@
         <item name="android:textColor">@color/md_theme_light_onPrimary</item>
     </style>
 
-    <style name="Theme.OnlineAssistantApp.OutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+    <style name="Theme.OnlineAssistantApp.TextButton" parent="Widget.Material3.Button.TextButton">
         <item name="android:backgroundTint">@color/md_theme_light_onPrimary</item>
         <item name="android:textColor">@color/md_theme_light_primary</item>
 
@@ -58,8 +58,18 @@
         <item name="android:textColor">@color/md_theme_light_onBackground</item>
         <item name="android:textSize">16sp</item>
     </style>
+    <style name="Theme.OnlineAssistantApp.LabelText" parent="Theme.OnlineAssistantApp.TitleText">
+        <item name="android:textColor">@color/md_theme_light_onSurfaceVariant</item>
+        <item name="android:textSize">14sp</item>
+    </style>
     <!-- bottom nav -->
     <style name="Theme.OnlineAssistantApp.BottomNav" parent="Widget.Material3.BottomNavigationView">
         <item name="backgroundTint">@color/md_theme_light_surface</item>
     </style>
+    <!-- toolbar nav -->
+    <style name="Theme.OnlineAssistantApp.TopBar" parent="Widget.Material3.Toolbar">
+        <item name="backgroundTint">@color/md_theme_light_surface</item>
+    </style>
+    <!-- card -->
+
 </resources>

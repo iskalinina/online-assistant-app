@@ -15,4 +15,21 @@
     <string name="schedule_headline">Your Schedule</string>
     <string name="settings_headline">Settings</string>
     <string name="contacts_headline">Contacts</string>
+    <string name="your_name">Your name</string>
+    <string name="position">Position</string>
+    <string name="division">Division</string>
+    <string name="log_out">Log Out</string>
+    <string name="your_phone">Your phone</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_notifications">Push-notifications</string>
+    <string name="appearance">Appearance</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="automatic_dark_mode">Automatic dark mode</string>
+    <string name="share_app">Share App</string>
+    <string name="events">Events</string>
+    <string name="banner">Banner</string>
+    <string name="description_conference">А regional conference will shortly be convened</string>
+    <string name="remind_me">REMIND ME</string>
+    <string name="browse">BROWSE</string>
+    <string name="menu">Menu</string>
 </resources>
